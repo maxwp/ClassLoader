@@ -6,7 +6,7 @@
         {
             "name": "Maxim Miroshnichenko",
             "email": "max@miroshnichenko.org",
-            "homepage": "http://miroshnichenko.org",
+            "homepage": "http://miroshnichenko.org"
         }
     ],
     "minimum-stability": "dev",
