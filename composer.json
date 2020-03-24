@@ -1,0 +1,25 @@
+{
+    "name": "maxwp/ClassLoader",
+    "description": "Class auto loader",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Maxim Miroshnichenko",
+            "email": "max@miroshnichenko.org",
+            "homepage": "http://miroshnichenko.org",
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": ["ClassLoader/include.php"]
+    }
+    "repositories" : [
+        {
+            "type" : "git",
+            "url" : "https://github.com/maxwp/ClassLoader"
+        }
+    ]
+}
