@@ -15,7 +15,7 @@
     },
     "autoload": {
         "files": ["ClassLoader/include.php"]
-    }
+    },
     "repositories" : [
         {
             "type" : "git",
